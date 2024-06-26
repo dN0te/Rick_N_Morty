@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="def_margin">16dp</dimen>
+    <dimen name="score_size_dim">45sp</dimen>
+    <dimen name="rick_hieght">100dp</dimen>
+    <dimen name="rick_width">100dp</dimen>
+    <dimen name="bottom_margin_def">32dp</dimen>
+    <dimen name="buttons_seperate_value">100dp</dimen>
+</resources>
