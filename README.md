@@ -65,9 +65,3 @@ License:
 --------
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact:
---------
-For any questions or issues, please contact:
-- Yuval Arbel
-- Email: yuvalarbel16@gmail.com
-- Phone: +972502272545
